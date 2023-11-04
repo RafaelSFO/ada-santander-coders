@@ -5,3 +5,4 @@
 # Novas mudanças
 
 * comando git pull
+* comando git fetch
