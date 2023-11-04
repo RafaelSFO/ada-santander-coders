@@ -3,3 +3,5 @@
 # Gravando mudanças no repositório 
 
 # Novas mudanças
+
+* comando git pull
